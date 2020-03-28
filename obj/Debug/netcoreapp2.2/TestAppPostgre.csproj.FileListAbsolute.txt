@@ -1,0 +1,14 @@
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\bin\Debug\netcoreapp2.2\TestAppPostgre.deps.json
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\bin\Debug\netcoreapp2.2\TestAppPostgre.runtimeconfig.json
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\bin\Debug\netcoreapp2.2\TestAppPostgre.runtimeconfig.dev.json
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\bin\Debug\netcoreapp2.2\TestAppPostgre.dll
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.csprojAssemblyReference.cache
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.csproj.CoreCompileInputs.cache
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.RazorAssemblyInfo.cache
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.RazorAssemblyInfo.cs
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.AssemblyInfoInputs.cache
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.AssemblyInfo.cs
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.RazorTargetAssemblyInfo.cache
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\bin\Debug\netcoreapp2.2\TestAppPostgre.pdb
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.dll
+C:\Users\user01\Documents\Visual Studio 2017\Projects\TestAppPostgre\TestAppPostgre\obj\Debug\netcoreapp2.2\TestAppPostgre.pdb
